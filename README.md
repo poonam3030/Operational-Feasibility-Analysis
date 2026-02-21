@@ -74,5 +74,3 @@ This type of validation helps ensure operational feasibility before assignment.
 (K) Limitations: This analysis is based on field observation as a platform user and independent contractor. No internal operational data was accessed.
 Recommendations are conceptual and intended to demonstrate structured business analysis thinking.
 
-This project reflects how real-world operational observations can be translated into structured business analysis insights.
-It demonstrates practical problem identification, stakeholder awareness and solution-oriented thinking aimed at improving operational efficiency and customer experience.
