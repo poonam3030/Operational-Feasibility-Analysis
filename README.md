@@ -35,7 +35,7 @@ Example:
 If the store closes in 30 minutes, the batch should not be released.
 This type of validation helps ensure operational feasibility before assignment.
 
-Stakeholder Impact Analysis
+(G) Stakeholder Impact Analysis
 1. Shopper
 - Reduced wasted effort
 - More predictable earnings
@@ -52,26 +52,26 @@ Stakeholder Impact Analysis
 - Improved operational efficiency
 - Stronger customer retention
 
-Risk Considerations
+(H) Risk Considerations
 
 <img width="731" height="157" alt="Screenshot 2026-02-21 at 12 56 23 AM" src="https://github.com/user-attachments/assets/c1c22924-e174-410a-845b-6bdad3e7e27c" />
 
 
-Recommendations: 
+(I) Recommendations: 
 1. Introduce Completion Feasibility Validation : Before releasing batches, validate whether the estimated completion time fits within remaining store operating hours.
 2. Implement Dynamic Cut-Off Rules : Automatically limit batch releases close to store closing time with flexibility based on order size and historical performance.
 3. Integrate Real-Time Store Hours Data : Ensure store operating hours are accurate and dynamically updated to support better decision-making.
 4. Use Historical Performance Metrics : Leverage past pick-time data and checkout durations to improve prediction accuracy.
 5. Monitor KPIs Post-Implementation : Order completion rate, Shopper cancellation rate, Refund frequency, Customer satisfaction indicators, Continuous monitoring will help refine the process.
 
-Business Value Potential: 
+(J) Business Value Potential: 
 1. Increase order completion reliability
 2. Improve shopper productivity and retention
 3. Enhance customer experience
 4. Reduce operational costs
 5. Strengthen platform reputation
 
-Limitations: This analysis is based on field observation as a platform user and independent contractor. No internal operational data was accessed.
+(K) Limitations: This analysis is based on field observation as a platform user and independent contractor. No internal operational data was accessed.
 Recommendations are conceptual and intended to demonstrate structured business analysis thinking.
 
 This project reflects how real-world operational observations can be translated into structured business analysis insights.
